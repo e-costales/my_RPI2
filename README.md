@@ -1,5 +1,5 @@
 # my-rpi
 
-As of Fri Oct 16 12:37:45 PM PDT 2026, my Raspberry-Pi has the following IP:
+As of Fri Oct 16 12:56:04 PM PDT 2026, my Raspberry-Pi has the following IP:
 
-- wlan0 : 10.133.0.139 [SSH](ssh://ferree@10.133.0.139) [SFTP](sftp://ferree@10.133.0.139) - Signal strength: 88%
+- wlan0 : 10.133.0.139 [SSH](ssh://ferree@10.133.0.139) [SFTP](sftp://ferree@10.133.0.139) - Signal strength: 80%
